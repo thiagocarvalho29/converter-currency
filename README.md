@@ -1,8 +1,8 @@
 # converter-currency
 
-<img src="Dólar.png" alt = "corrency dolar">
-<img src="euro.png" alt = "corrency euro">
-<img src="bitcoin.png" alt = "corrency bitcoin">
+<img src="Dólar.png" alt = "corrency dolar" align="center"> 
+<img src="euro.png" alt = "corrency euro" align="center">
+<img src="bitcoin.png" alt = "corrency bitcoin" align="center">
 
 
 <br>
