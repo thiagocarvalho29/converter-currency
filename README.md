@@ -1,13 +1,11 @@
 # converter-currency
 
-<img src="./dolar.png">
+<img src="Dólar.png" alt = "corrency dolar">
+<img src="euro.png" alt = "corrency euro">
+<img src="bitcoin.png" alt = "corrency bitcoin">
 
 
 <br>
-
-<img src="C:\Users\Casa\Desktop\Programação\Code Club\JavaScript\Project converter\Dólar.png" alt="Convert currency dollar">
-<img src="C:\Users\Casa\Desktop\Programação\Code Club\JavaScript\Project converter\euro.png" alt="Convert currency euro">
-<img src="C:\Users\Casa\Desktop\Programação\Code Club\JavaScript\Project converter\bitcoin.png" alt="Convert currency bitcoin">
 
 > Resultado do convesor de moedas.
 ### Ajustes e melhorias
@@ -28,7 +26,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
   <tr>
     <td align="center">
       <a href="https://www.linkedin.com/in/thiago-c-a47428142/">
-        <img src="C:\Users\Casa\Desktop\Programação\Code Club\JavaScript\Project converter\images\eu.jpeg" width="100px;" alt="foto doThiago"><br>
+        <img src="images\eu.jpeg" width="100px;" alt="foto do Thiago"><br>
         <sub>
           <b>Thiago Carvalho</b>
         </sub>
