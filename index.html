@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="pt-NR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https: //fonts.googleapis.com/css2? family = Roboto & display = swap " rel=" stylesheet ">
+    <link rel="shortcut icon" href="./images/brasil 2.png" type="image/x-icon">
+    <link rel="stylesheet" href="style.css">
+    <title>Converter Money</title>
+</head>
+
+<body>
+
+    <div class="container">
+
+        <header>
+
+            <h1>CodeClub Converter Money</h1>
+
+        </header>
+        <main>
+            <div>
+                <label>
+                    Converter <b>de</b>
+                    <select>
+                        <option>
+                            R$ <strong> 
+                                Real Brasileiro
+                            </strong>
+                        </option>
+                        
+                    </select>
+                </label>
+
+                <label>
+                    Converter <b>para</b>
+                    <select id="select">
+                        <option>
+                            US$ 
+                            <b> 
+                                Dólar Americano 
+                            </b>
+                        </option>
+                        
+                        <option>
+                            € 
+                            <b>
+                                Euro
+                            </b>
+                        </option>
+                        
+                        <option>
+                             <b>
+                                Bitcoin
+                            </b>
+                        </option>
+                    </select>
+                </label>
+
+                <label>
+                    <b> Valor </b>
+                    <input id="input-convert" type="number" placeholder="R$ 10.000,00">
+                </label>
+
+            </div>
+            <button id="convert"> Converter </button>
+
+            <section>
+
+                <div class="opition">
+
+                    <img src="./images/brasil 2.png" alt="Real Brasil" id="real_brasil">
+
+                    <p class="currency">
+                        Real
+                    </p>
+
+                    <p class="value" id="real_value_text">
+                        R$ 10.000,00
+                    </p>
+                </div>
+
+                <img class="arrow-img" src="./images/arrow.jpg" alt="Seta">
+
+                <div class="opition">
+
+                    <img src="./images/estados-unidos.png" alt="Country Conversion" id="dollar_americano">
+
+                    <p class="currency" id="currency_name">
+                        Dólar Americano
+                    </p>
+
+                    <p class="value" id="dollar_value_text">
+                        US$ 2.000,00
+                    </p>
+
+                </div>
+
+            </section>
+        </main>
+
+    </div>
+
+</body>
+<script src="./scripts.js">
+</script>
+
+</html>
