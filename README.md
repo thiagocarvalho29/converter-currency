@@ -1,5 +1,7 @@
 # converter-currency
 
+<img src="./dolar.png">
+
 
 <br>
 
@@ -24,7 +26,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
   <tr>
     <td align="center">
       <a href="https://www.linkedin.com/in/thiago-c-a47428142/">
-        <img src="./assets/eu.jpeg" width="100px;" alt="foto doThiago"><br>
+        <img src="./image/eu.jpeg" width="100px;" alt="foto doThiago"><br>
         <sub>
           <b>Thiago Carvalho</b>
         </sub>
